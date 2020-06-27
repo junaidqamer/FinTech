@@ -46,7 +46,7 @@ What solution does this company offer that their competitors do not or cannot of
 
 ## Recommendations
 
-The most important aspects going forward would be viability and scalability of the application operating at the platform. Thus, instead of offering the platform for wider application areas and to wider array of clients, Corda must focus on consolidation and a limite targetted segments in the market. Focus should remain on development of the platform until the platform becomes viable for wider use. 
+The most important aspects going forward would be viability and scalability of the application operating at the platform. Thus, instead of offering the platform for wider application areas and to wider array of clients, Corda must focus on consolidation and a limite targetted segments in the market. Focus should remain on development of the platform until the platform becomes viable for wider use. Particularly, keeping the cost of cloud computing down should be a major area of focus going forwards. 
 
 ## References
 https://www.R3.com
