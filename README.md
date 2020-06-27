@@ -1,12 +1,12 @@
-# FinTech
-Title: Block chain and Cryptocurrency: Improving cost and functionality of insfrastructure 
+# FinTech-Block Chain and Cryptocurrencies
+Title: Smart Contracts:Improving cost and functionality of enterprise insfrastructure and transactions
 
 ## Overview and Origin
 * Name of the Company: R3
 
-* When was the company incorporated? September 2014
+* Year incorporated? September 2014
 
-* Who are the founders of the company? David E. Rutter
+* The founders of the company? David E. Rutter
 
 * How did the idea for the company (or project) come about?
   R3 attempted to fill a need to utilize existing technology and coding languages to provide enterprise networking infrastructure for blockchain domain. To that end it introduced an open source platform , Corda, which was utilized by a consortium of partners who continue to develop it since it launch in 2016. Corda provides platform to launch a host application in multiple finance domains. Companies can use Corda platform to launch their own applications in insurance, trading, smart contract, and international trade etc. This cut down the cost and time to execute contracts between firms and agnecies across the globe. 
@@ -41,21 +41,16 @@ What solution does this company offer that their competitors do not or cannot of
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics? One of the metrics is wider acceptablity in terms of number of clients that have adopted the platform. Second most important is the variety of industry those clients are coming from. Since the focus of Corda is financial sector, the major criterion of success is adoptability of Corda by financial institutions as a global independent network (medium.com)
 
-* How is your company performing relative to competitors in the same domain? HyperLedger is the main competitor within permission blockchain domain. However it is targeting generalized connectivity among multiple sectors. Corda focusses more on financial secotrs and contracts. Both have relative success in their areas of focus. 
+* How is your company performing relative to competitors in the same domain? HyperLedger is the main competitor within permission blockchain domain. However it is targeting generalized connectivity among multiple sectors. Corda focusses more on financial secotrs and contracts. Both have relative success in their areas of focus. Corda is leader in terms of backing from banking commmunity.
 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+The most important aspects going forward would be viability and scalability of the application operating at the platform. Thus, instead of offering the platform for wider application areas and to wider array of clients, Corda must focus on consolidation and a limite targetted segments in the market. Focus should remain on development of the platform until the platform becomes viable for wider use. 
 
 ## References
 https://www.R3.com
 https://uk.reuters.com/article/us-banks-blockchain-r3-exclusive-idUKKCN12K17E
 https://www.cnbc.com/2017/05/23/r3-funding-blockchain-intel-bank-of-america-hsbc.html#:~:text=Tech%20Transformers-,Intel%20and%20major%20banks%2C%20including%20HSBC%20and%20BOAML%2C%20pour,%24107%20million%20into%20blockchain%20group&text=R3%20is%20developing%20blockchain%2Dlike,the%20%24107%20million%20funding%20round.
 https://medium.com/newcryptoblock/hyperledger-fabric-vs-r3-corda-7954035a4884#:~:text=Hyperledger%20is%20part%20of%20a,as%20a%20global%20independent%20network.
+https://ftalphaville.ft.com/2019/08/21/1566408930000/More-trouble-in-blockchain-land/
